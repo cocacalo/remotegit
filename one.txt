@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 are you sure?
 okkk
-=======
 hello world？？？？
 爱护
->>>>>>> 4bd4e651e9eb41167656ea9b60dbe031d4633747
+not
